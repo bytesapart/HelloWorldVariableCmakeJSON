@@ -1,3 +1,0 @@
-/mnt/d/Project/VS2019CMakeOutputError/out/build/WSL-GCC-Debug/CMakeFiles/rebuild_cache.dir
-/mnt/d/Project/VS2019CMakeOutputError/out/build/WSL-GCC-Debug/CMakeFiles/app.dir
-/mnt/d/Project/VS2019CMakeOutputError/out/build/WSL-GCC-Debug/CMakeFiles/edit_cache.dir
